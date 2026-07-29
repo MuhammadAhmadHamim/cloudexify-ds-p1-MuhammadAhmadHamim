@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060b14,50:0d1a2e,100:132a44&height=200&section=header&text=Sales%20Data%20Analysis&fontSize=42&fontColor=22d3ee&fontAlignY=42&desc=CloudExify%20Data%20Science%20Internship%20%E2%80%94%20Month%201%20%C2%B7%20Project%201&descAlignY=64&descSize=16&descColor=34d399&fontFamily=Georgia&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:16181c,100:1f2226&height=200&section=header&text=Sales%20Data%20Analysis&fontSize=42&fontColor=34d399&fontAlignY=42&desc=CloudExify%20Data%20Science%20Internship%20%E2%80%94%20Month%201%20%C2%B7%20Project%201&descAlignY=64&descSize=16&descColor=f87171&fontFamily=Georgia&animation=fadeIn" />
 
 ![Python](https://img.shields.io/badge/Python-060B14?style=for-the-badge&logo=python&logoColor=22D3EE)
 ![Pandas](https://img.shields.io/badge/Pandas-060B14?style=for-the-badge&logo=pandas&logoColor=34D399)
@@ -127,6 +127,6 @@ jupyter notebook sales_analysis.ipynb
 
 **CloudExify Summer Internship 2026** · Data Science Track · Month 1, Project 1
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:132a44,50:0d1a2e,100:060b14&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2226,50:16181c,100:0a0a0a&height=90&section=footer" />
 
 </div>
