@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <br/>
 
 ## ◈ Overview
@@ -33,7 +31,7 @@ This project is **Month 1 – Project 1** of the **CloudExify Data Science Summe
 
 ## ◈ At a Glance
 
-| | |
+|---|---|
 |---|---|
 | **Difficulty** | Beginner → Intermediate |
 | **Language** | Python (Jupyter Notebook) |
@@ -48,9 +46,9 @@ This project is **Month 1 – Project 1** of the **CloudExify Data Science Summe
 cloudexify-ds-p1-MuhammadAhmadHamim/
 ├── charts/            filed exhibits — chart outputs
 |   ├── category_comparison.png
-|   ├──
-|   ├──
-|   └──
+|   ├── monthly_trend.png
+|   ├── region_distribution.png
+|   └── top_products.png
 |   
 ├── sales_analysis.ipynb    line items — the full analysis, cell by cell
 ├── sample_data.csv         source ledger — raw sales records
