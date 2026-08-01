@@ -98,7 +98,7 @@ by_product = df.groupby('Product')['Amount'].sum().sort_values(ascending=False)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourname/cloudexify-ds-p1-MuhammadAhmadHamim.git
+git clone https://github.com/MuhammadAhmadHamim/cloudexify-ds-p1-MuhammadAhmadHamim.git
 
 # 2. Install dependencies
 pip install jupyter pandas numpy matplotlib
